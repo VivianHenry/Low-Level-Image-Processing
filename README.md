@@ -26,3 +26,10 @@ The techniques studied in this assignment are the following:
   <li> Gaussian averaging
   <li> Median averaging
 </ul>
+
+<h2>Sample Results</h2>
+
+Histogram equalization:
+
+![image](https://user-images.githubusercontent.com/67223688/184458124-e14db406-ddb7-4c7d-afa3-ceb120f79c94.jpeg)
+
