@@ -48,6 +48,3 @@ Gaussian averaging:
 Median averaging:
 
 ![image](https://user-images.githubusercontent.com/67223688/184458211-1022f949-4971-41e1-9f4f-8f55e904d2b5.png)
-
-Median averaging:
-
